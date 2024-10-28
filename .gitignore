@@ -1,0 +1,9 @@
+# Abaikan file dan folder sementara
+.env
+node_modules/
+vendor/
+.DS_Store
+
+# Abaikan semua file dengan ekstensi tertentu
+*.log
+*.tmp
